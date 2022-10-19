@@ -1,0 +1,50 @@
+news_source,num_articles,avg_rating
+ABCNews.com,13,2.3846153846153846
+AP Associated Press,33,3.787878787878788
+Associated Press,69,3.869565217391304
+Bloomberg,14,3.5714285714285716
+BuzzFeed,10,3.6
+CBSNews.com,29,2.413793103448276
+CNN,51,3.2745098039215685
+CNN Health,17,2.764705882352941
+Chicago Sun-Times,1,2.0
+Chicago Tribune,12,2.5
+Des Moines Register,1,2.0
+Detroit Free Press,1,5.0
+FiveThirtyEight,4,4.0
+FoxNews.com,19,2.1052631578947367
+Hartford Courant,1,3.0
+Health Day,172,3.11046511627907
+HealthDay,95,2.8105263157894735
+Houston Chronicle,1,2.0
+Los Angeles Times,97,3.2577319587628866
+MSNBC,15,2.3333333333333335
+Medical Daily,5,2.2
+NBCNews.com,31,3.032258064516129
+NPR,87,3.4482758620689653
+Newsweek,26,3.0
+Orlando Sentinel,3,1.6666666666666667
+Reuters,42,2.619047619047619
+Reuters Health,166,3.3132530120481927
+STAT,22,3.909090909090909
+Slate,2,2.5
+Star Tribune,1,1.0
+Sun-Sentinel,1,5.0
+TIME,8,2.75
+The Arizona Republic,1,2.0
+The Boston Globe,13,3.3846153846153846
+The Dallas Morning News,2,1.5
+The Denver Post,4,1.75
+The Guardian,21,2.2857142857142856
+The Houston Chronicle,5,2.0
+The Mercury News,1,2.0
+The New York Times,128,3.5546875
+The Oregonian,1,5.0
+The Philadelphia Inquirer,44,3.6363636363636362
+The Wall Street Journal,106,3.5849056603773586
+The Washington Post,56,3.0714285714285716
+Time,34,2.676470588235294
+US News & World Report,17,2.9411764705882355
+USA Today,40,3.475
+Vox,13,4.461538461538462
+WebMD,136,2.8161764705882355

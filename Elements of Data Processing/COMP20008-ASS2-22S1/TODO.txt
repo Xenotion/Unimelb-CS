@@ -1,0 +1,45 @@
+1. Research Question
+2. Segregate the data according to the Question - big part guessing
+3. Answer the research question with detail - report part, while describing what we did and how we did it
+
+Variables - Rainfall, Evaporation, Min temp, Max temp - (sunshine?)
+
+# First Step
+Use Melbourne, Sydney to fill up Brisbane
+Use all 3 to fill up Adelaide
+
+# Second Step
+What are we trying to do?
+Use Min/Max temp and Evaporation to evaluate the rainfall in each major cities in each states. 
+Does temperature affect the rainfall prediction compared to evaporation
+
+Do we have the data set to compare results - no? but we will do random sampling to extract a few data points out to test out our conclusion
+
+Individual conclusion? - each conclusion for each city
+Does the location affect our outcome?
+
+If not - combine
+If does - separate
+
+Try both and see what happens... - good discussion topic in the final report
+
+Multi regression
+Linear regression
+Do both?
+
+Assumptions :
+1. Each major cities' weather condition is neglected - to combine all the cities
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+New/Final Question - Predicting price demand (unit?) based on temperature per state (9am, 3pm)
+
+Major city's data will represent its state
+
+
+Report Sesh
+1. Evaporation and Rainfall doesn't work together 
+
+
+
+

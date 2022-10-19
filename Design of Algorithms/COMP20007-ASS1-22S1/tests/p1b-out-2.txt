@@ -1,0 +1,9 @@
+3 5 7
+3 5 7
+3 5 7
+10 (not found): 3 3
+2 (not found): 1 1
+5 (present): 2 2
+7 (present): 3 3
+3 (present): 1 1
+8 (not found): 3 3

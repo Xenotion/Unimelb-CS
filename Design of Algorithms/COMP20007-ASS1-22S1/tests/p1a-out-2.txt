@@ -1,0 +1,6 @@
+10 (present): 5 4
+2 (present): 1 2
+5 (present): 3 2
+7 (present): 4 3
+3 (present): 2 1
+8 (not found): 5 4
